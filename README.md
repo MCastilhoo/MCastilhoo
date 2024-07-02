@@ -3,6 +3,7 @@
 
 
 [![Matheus Castilho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MCastilhoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCastilhoo&layout=compact&theme=dracula&width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

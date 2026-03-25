@@ -1,24 +1,22 @@
 # Hi there, I'm Matheus Castilho 👋🏻
 
-
-
-[![Matheus Castilho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MCastilhoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCastilhoo&layout=compact&theme=dracula&width=400)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MCastilhoo&show_icons=true&theme=dracula" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCastilhoo&layout=compact&theme=dracula" />
+</p>
 
 ## Technologies I know 🖥️
 
-<div style="display: inline_block"><br/>
-
+<div style="display: inline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+</div>
 
 ##
 

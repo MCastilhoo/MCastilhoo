@@ -1,8 +1,16 @@
 # Hi there, I'm Matheus Castilho 👋🏻
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MCastilhoo&show_icons=true&theme=dracula" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCastilhoo&layout=compact&theme=dracula" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=MCastilhoo&show_icons=true&theme=dracula"
+    alt="Estatísticas do GitHub de MCastilhoo"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MCastilhoo&layout=compact&theme=dracula"
+    alt="Linguagens mais utilizadas por MCastilhoo"
+  />
 </p>
 
 ## Technologies I know 🖥️
